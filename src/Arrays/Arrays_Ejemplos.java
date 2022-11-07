@@ -12,12 +12,14 @@ public class Arrays_Ejemplos {
         double Prom_Precios = 0;
 
 
-        String [] Apellidos = new String [5];  
+        String [] Apellidos = new String [7];  
         Apellidos [0] = "Sierra";   
         Apellidos [1] = "Guzman"; 
         Apellidos [2] = "Parra"; 
         Apellidos [3] = "Ortiz"; 
         Apellidos [4] = "Ruiz"; 
+        Apellidos [5] = "Mora"; 
+        Apellidos [6] = "Caro"; 
 
         /*  Lenght = Tamaño del arreglo
            i inicializada en cero   i = 0
